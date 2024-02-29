@@ -1,0 +1,15 @@
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\bin\Debug\net8.0\Prosuite.Infrastructure.deps.json
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\bin\Debug\net8.0\Prosuite.Infrastructure.dll
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\bin\Debug\net8.0\Prosuite.Infrastructure.pdb
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\bin\Debug\net8.0\Prosuite.Domain.dll
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\bin\Debug\net8.0\Prosuite.Domain.pdb
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\obj\Debug\net8.0\Prosuite.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\obj\Debug\net8.0\Prosuite.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\obj\Debug\net8.0\Prosuite.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\obj\Debug\net8.0\Prosuite.Infrastructure.AssemblyInfo.cs
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\obj\Debug\net8.0\Prosuite.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\obj\Debug\net8.0\Prosuite.Infrastructure.csproj.CopyComplete
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\obj\Debug\net8.0\Prosuite.Infrastructure.dll
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\obj\Debug\net8.0\refint\Prosuite.Infrastructure.dll
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\obj\Debug\net8.0\Prosuite.Infrastructure.pdb
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Infrastructure\obj\Debug\net8.0\ref\Prosuite.Infrastructure.dll

@@ -1,0 +1,12 @@
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\bin\Debug\net8.0\Prosuite.Domain.deps.json
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\bin\Debug\net8.0\Prosuite.Domain.dll
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\bin\Debug\net8.0\Prosuite.Domain.pdb
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\obj\Debug\net8.0\Prosuite.Domain.csproj.AssemblyReference.cache
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\obj\Debug\net8.0\Prosuite.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\obj\Debug\net8.0\Prosuite.Domain.AssemblyInfoInputs.cache
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\obj\Debug\net8.0\Prosuite.Domain.AssemblyInfo.cs
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\obj\Debug\net8.0\Prosuite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\obj\Debug\net8.0\Prosuite.Domain.dll
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\obj\Debug\net8.0\refint\Prosuite.Domain.dll
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\obj\Debug\net8.0\Prosuite.Domain.pdb
+C:\Users\Kekgaugetswe\source\Prosuite\Prosuite.Domain\obj\Debug\net8.0\ref\Prosuite.Domain.dll

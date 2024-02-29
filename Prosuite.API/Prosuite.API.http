@@ -1,0 +1,6 @@
+@Prosuite.API_HostAddress = http://localhost:5006
+
+GET {{Prosuite.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

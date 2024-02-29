@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wGffH6SFTiIp+7NEiKUU0pKLTW5dWpkiOWgcMTmR1dXGz9X9E20JV8TnYP8qdixt51PzDunx5qjEFnti3Xwfug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kekgaugetswe\\source\\Prosuite\\Prosuite.Domain\\Prosuite.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kekgaugetswe\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
